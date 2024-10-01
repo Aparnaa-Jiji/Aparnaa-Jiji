@@ -9,7 +9,7 @@ I am an MCA student passionate about diving deep into the world of programming. 
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, Java, C++, C
+- **Programming Languages**: Python, Java, C++, C, Android
 - **Web Technologies**: HTML, CSS, JavaScript, Php
 - **Frameworks**: Django
 - **Databases**: MySQL
