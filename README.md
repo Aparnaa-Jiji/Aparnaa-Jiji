@@ -1,40 +1,49 @@
- # 👋 Hey there! I'm Aparna!
-I am an MCA student passionate about diving deep into the world of programming. I thrive on solving problems with code and am eager to learn and tackle new challenges. 🚀
+# Hi, I'm Aparna 👋
 
-## 📚 About Me
+MCA graduate with hands-on experience in building web applications using Python, Django, MySQL, HTML, CSS, and Git.
 
-- **Education**: Master of Computer Applications (MCA) at Mangalam College of Engineering.
-- **Interests**: Software Development, Web Development, Data Science, Data Analysis
-- **Goal**: To leverage technology to create innovative solutions and contribute to impactful projects.
+I enjoy building practical software solutions and continuously improving my technical skills through real-world projects. My primary project, EduDOC, is an automated academic document compliance and evaluation system developed independently as my MCA final-year project.
 
-## 🛠️ Skills
+## What I'm Working On
 
-- **Programming Languages**: Python, Java, C++, C, Android
-- **Web Technologies**: HTML, CSS, JavaScript, Php
-- **Frameworks**: Django
-- **Databases**: MySQL
-- **Tools**: Git, GitHub, Visual Studio Code
+- Improving backend development skills
+- Building complete software projects
+- Strengthening problem-solving and software engineering fundamentals
+- Preparing for software engineering opportunities
 
-## 🌟 Projects
+## Featured Project
 
-<!---### Notable Projects:
+### EduDOC
+An automated framework for academic document compliance and evaluation.
 
-- **[Project Name 1](link-to-your-project)**: A brief description of the project, including the technologies used and its purpose.
-- **[Project Name 2](link-to-your-project)**: A brief description of the project, including the technologies used and its purpose.
-- **[Project Name 3](link-to-your-project)**: A brief description of the project, including the technologies used and its purpose.
---->
-## 🤝 Contributions
+Key features include:
+- Role-based authentication (Admin, Teacher, Student)
+- Classroom and batch management
+- Academic guideline management
+- DOCX document compliance evaluation
+- Plagiarism checking
+- Annotated feedback generation
+- Compliance report generation
 
-I welcome collaboration and feedback! If you have any suggestions or would like to work together, please feel free to reach out.
+## Technical Skills
 
-## 📫 Contact
+- Python
+- Django
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
 
-You can connect with me via:
+## Currently
 
-- LinkedIn - www.linkedin.com/in/aparna-jiji
-- Email - aparnajiji003@gmail.com
+📍 Relocating to Delhi NCR
 
-Thank you for visiting my GitHub profile! I look forward to connecting with fellow developers and tackling new challenges together. 🚀
+Open to software opportunities where I can contribute, learn, and grow.
 
+## Contact
 
+LinkedIn: www.linkedin.com/in/aparna-jiji
 
+Email: aparnajiji003@gmail.com
